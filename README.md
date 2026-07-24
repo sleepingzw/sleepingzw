@@ -7,3 +7,5 @@ QQ:2826241064
 coding with c#
 
 creating shit
+
+PhD Student but retard，doing useless research with python and cuda
